@@ -139,21 +139,3 @@ Ejemplo de salida:
 
 ---
 
-## 🧩 7. Posibles ampliaciones
-
-- Configurar una **red interna (host-only)** para aislar el laboratorio.  
-- Instalar **servicios web o de base de datos** en Rocky Linux para pruebas desde Kali.  
-- Implementar **herramientas de monitoreo y análisis** de red.  
-- Probar **comunicaciones entre Windows y las demás VMs** mediante protocolos RDP o SMB.
-
----
-
-## 🧾 Conclusión
-
-Se logró con éxito:
-
-- Instalar y configurar QEMU/KVM con Virt-Manager en Ubuntu.  
-- Crear y ejecutar máquinas virtuales con **Rocky Linux**, **Kali Linux** y **Windows**.  
-- Establecer una conexión de red entre todas las máquinas, comprobada mediante `ping`.  
-
-Este entorno sirve como base para prácticas de redes, ciberseguridad, y administración de sistemas.
